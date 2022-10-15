@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f68d24-0241-4b48-bb79-87371c7af2f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmallestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmallestNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SmallestNumber">
+  <component name="RunManager" selected="Application.StudentSystem">
     <configuration name="GasTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GasTank" />
       <module name="HelloWorld" />
@@ -63,13 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramaManejoDeNombres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgramaManejoDeNombres" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SmallestNumber" />
       <module name="HelloWorld" />
@@ -77,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentSystem" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentSystem" />
         <item itemvalue="Application.SmallestNumber" />
         <item itemvalue="Application.LongestName" />
         <item itemvalue="Application.GasTank" />
         <item itemvalue="Application.GreaterOfTwo" />
-        <item itemvalue="Application.ProgramaManejoDeNombres" />
       </list>
     </recent_temporary>
   </component>

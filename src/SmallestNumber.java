@@ -6,7 +6,7 @@ public class SmallestNumber {
         //int numArray[]  = new int [10];
         int smallest = 0;
 
-        for (int number: numArray) {
+        for (int i = 0; i < 10 ; i++) {
             //numArray[number] = scanner.nextInt();
              int numArray = scanner.nextInt();
             if (numArray < smallest){
