@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f68d24-0241-4b48-bb79-87371c7af2f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GreaterOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GasTank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +40,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GreaterOfTwo">
+  <component name="RunManager" selected="Application.GasTank">
     <configuration name="EjemploStringMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploStringMetodos" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GasTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GasTank" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemasNumericosScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SistemasNumericosScanner" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GasTank" />
         <item itemvalue="Application.GreaterOfTwo" />
         <item itemvalue="Application.ProgramaManejoDeNombres" />
         <item itemvalue="Application.EjemploStringMetodos" />
         <item itemvalue="Application.InvoiceDetail" />
-        <item itemvalue="Application.SistemasNumericosScanner" />
       </list>
     </recent_temporary>
   </component>
