@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0f68d24-0241-4b48-bb79-87371c7af2f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SmallestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +41,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestName">
-    <configuration name="EjemploStringMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploStringMetodos" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SmallestNumber">
     <configuration name="GasTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GasTank" />
       <module name="HelloWorld" />
@@ -77,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallestNumber" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestNumber" />
         <item itemvalue="Application.LongestName" />
         <item itemvalue="Application.GasTank" />
         <item itemvalue="Application.GreaterOfTwo" />
         <item itemvalue="Application.ProgramaManejoDeNombres" />
-        <item itemvalue="Application.EjemploStringMetodos" />
       </list>
     </recent_temporary>
   </component>
